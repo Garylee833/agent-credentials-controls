@@ -8,3 +8,6 @@ A short defensive-research paper on the controls that actually govern AI agents 
 Grounded in public reporting (Cisco CVE-2026-76504, the March 2026 Trivy supply-chain compromise, CISA KEV) and the author's own defensive design work. Practitioner discussion is labeled as opinion, not evidence. No live systems are described; no malware samples were used.
 
 *Defensive research — for systems you own or are authorized to protect.*
+
+
+*© 2026 Garylee833. All rights reserved. See LICENSE for terms.*

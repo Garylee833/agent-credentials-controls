@@ -55,3 +55,8 @@ I'm not claiming to have invented any of this, and I'm not claiming the Reddit s
 Cisco advisory cisco-sa-sdwan-webauth-xr8beuuU (CVE-2026-76504, CVSS 9.8; CISA KEV, added 2026-09-30, federal remediation due 2026-10-03; partial Live Protect mitigation added 2026-10-02). BleepingComputer and others on the March 2026 Trivy supply-chain compromise and the Cisco development-environment breach (confirmed by Cisco in part; related extortion claims unconfirmed). r/cybersecurity discussion, 2026-10-03, "AI agents now hold real credentials and call real APIs — what controls are you actually putting around them?" (post body removed by platform filters; the discussion is quoted as practitioner opinion, not evidence). SANS Leadership Community, "Behavior Change Is Not Enough," 2026-10-03 — cited as an industry position; it's also course marketing, and I've weighted it that way.
 
 *Defensive research. Everything here is for systems you own or are authorized to protect. No malware samples were used — incidents are studied from published reporting only.*
+
+
+---
+
+*© 2026 Garylee833. All rights reserved. Brief quotations permitted with clear attribution and a link to this repository.*
