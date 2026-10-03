@@ -11,3 +11,5 @@ Grounded in public reporting (Cisco CVE-2026-76504, the March 2026 Trivy supply-
 
 
 *© 2026 Garylee833. All rights reserved. See LICENSE for terms.*
+
+Researched and drafted with AI assistance; reviewed and owned by the author.

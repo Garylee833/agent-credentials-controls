@@ -60,3 +60,5 @@ Cisco advisory cisco-sa-sdwan-webauth-xr8beuuU (CVE-2026-76504, CVSS 9.8; CISA K
 ---
 
 *© 2026 Garylee833. All rights reserved. Brief quotations permitted with clear attribution and a link to this repository.*
+
+*Authorship note: this paper was researched and drafted with AI assistance and reviewed, corrected, and owned by the author. AI help is credited the same way it would be for any collaborator — openly.*
